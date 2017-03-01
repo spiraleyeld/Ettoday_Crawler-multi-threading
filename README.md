@@ -14,3 +14,5 @@
 次Queue依照主Queue的urls多緒爬文章最後寫出檔案．
 
 細項程式碼說明，請詳ettoday_crawler(multi).py : )
+
+附上ettoday_crawler(normal) 版本供比較
