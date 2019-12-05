@@ -20,4 +20,5 @@
 第三支-autoEttodayCrawler
 
 為自動爬蟲腳本，需搭配docker & mongoDB一同操作，詳細說明請詳Gitbook頁面：
-https://spiraleyeld.gitbooks.io/awei_wd/content/dan-51433a-autocrawler.html
+https://app.gitbook.com/@keng-wei-lin/s/awei_wd/autocrawler
+
